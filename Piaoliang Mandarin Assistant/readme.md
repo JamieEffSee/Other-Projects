@@ -29,7 +29,7 @@ v2.1 \- 2026 Feb 17\
 
 v1.0\
 --> This version covers vocabulary for the first seven lessons.\
-&nbsp;&nbsp;&nbsp;&nbsp;You can choose any chapter to review its vocabulary list.\
+You can choose any chapter to review its vocabulary list.\
 --> Use Settings to turn on Quiz Mode.\
 --> As I continue my self-study, I will add more chapters and update the program here!
 
