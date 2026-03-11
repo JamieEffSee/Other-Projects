@@ -1,4 +1,4 @@
-Piaoliang Manadarin Chinese Vocabulary Assistant. Intended for use with Integrated Chinese 4E (Cheng & Tsui).
+Piaoliang Mandarin Chinese Vocabulary Assistant. Intended for use with Integrated Chinese 4E (Cheng & Tsui).
 
 REQUIRES JDK 23 OR LATER\
 I started this program during my MCHI200 class at Concordia University because I was tired of lugging around my flash cards.\
