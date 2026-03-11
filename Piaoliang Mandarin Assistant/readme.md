@@ -5,6 +5,8 @@ I started this program during my MCHI200 class at Concordia University because I
 I finished it after graduation and still use it to this day.\
 One day I'll probably turn it into a mobile app, we'll see.
 
+---
+
 RELEASE NOTES
 
 v2.2 \- 2026 Mar 11\
