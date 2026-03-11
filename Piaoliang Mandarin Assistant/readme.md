@@ -8,7 +8,7 @@ One day I'll probably turn it into a mobile app, we'll see.
 RELEASE NOTES
 
 v2.2 \- 2026 Mar 11\
-No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully customizable keybindings.\
+--> No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully customizable keybindings.\
 Change your keybindings using the newly tweaked Settings Menu UI.\
 Tweaked quiz environment UI a little as well.\
 Added some additional clarification to a couple of translations.
