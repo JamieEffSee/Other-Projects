@@ -26,8 +26,8 @@ All of these actions can still be performed with a mouse if you choose.\
 --> Added some additional clarification to a couple of translations.
 
 *v2.1 \- Multi-chapter functionality \- 2026 Feb 17*\
+--> Added multi\-chapter quiz functionality. Practice dozens of words at once!\
 --> Fixed some incorrect characters in Lesson 2.\
---> Added multi\-chapter quiz functionality.\
 --> Added other buttons for upcoming chapters.\
 --> Used this opportunity to clean up the main UI a bit.
 
