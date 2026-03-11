@@ -12,11 +12,11 @@ v2.2 \- 2026 Mar 11\
 Change your keybindings using the newly tweaked Settings Menu UI.\
 The default keybindings are:\
 &nbsp;&nbsp;&nbsp;&nbsp;**Previous Card** - Left Arrow\
-**Next Card** - Right Arrow\
-**Reveal Card** (in Quiz Mode) - Up Arrow\
-**Return to Menu** - Escape\
-**Shuffle Deck** - S key\
-**Restore Deck** (to textbook order) - R key\
+&nbsp;&nbsp;&nbsp;&nbsp;**Next Card** - Right Arrow\
+&nbsp;&nbsp;&nbsp;&nbsp;**Reveal Card** (in Quiz Mode) - Up Arrow\
+&nbsp;&nbsp;&nbsp;&nbsp;**Return to Menu** - Escape\
+&nbsp;&nbsp;&nbsp;&nbsp;**Shuffle Deck** - S key\
+&nbsp;&nbsp;&nbsp;&nbsp;**Restore Deck** (to textbook order) - R key\
 All of these actions can still be performed with a mouse if you choose.\
 --> Tweaked quiz environment UI a little as well.\
 --> Added some additional clarification to a couple of translations.
