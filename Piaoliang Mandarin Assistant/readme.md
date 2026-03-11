@@ -11,7 +11,7 @@ v2.2 \- 2026 Mar 11\
 --> No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully customizable keybindings.\
 Change your keybindings using the newly tweaked Settings Menu UI.\
 The default keybindings are:\
-&nbsp&nbsp&nbsp&nbsp **Previous Card** - Left Arrow\
+&nbsp &nbsp &nbsp &nbsp **Previous Card** - Left Arrow\
 **Next Card** - Right Arrow\
 **Reveal Card** (in Quiz Mode) - Up Arrow\
 **Return to Menu** - Escape\
