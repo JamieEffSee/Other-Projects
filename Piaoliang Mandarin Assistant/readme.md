@@ -12,7 +12,7 @@ One day I'll probably turn it into a mobile app, we'll see.
 **RELEASE NOTES**
 
 *v2.2 \- Quiz mode keyboard support \- 2026 Mar 11*\
---> No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully-customizable keybindings.\
+--> No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully customizable keybindings.\
 Change your keybindings using the newly tweaked Settings Menu UI.\
 The default keybindings are:\
 &nbsp;&nbsp;&nbsp;&nbsp;**Previous Card** - Left Arrow\
