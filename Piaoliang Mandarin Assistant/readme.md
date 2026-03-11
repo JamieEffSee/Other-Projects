@@ -11,7 +11,7 @@ One day I'll probably turn it into a mobile app, we'll see.
 
 **RELEASE NOTES**
 
-*v2.2 \- 2026 Mar 11\*
+*v2.2 \- 2026 Mar 11*\
 --> No more mouse mashing! Keyboard functionality has been added to the Quiz/Review environment with fully customizable keybindings.\
 Change your keybindings using the newly tweaked Settings Menu UI.\
 The default keybindings are:\
@@ -25,13 +25,13 @@ All of these actions can still be performed with a mouse if you choose.\
 --> Tweaked quiz environment UI a little as well.\
 --> Added some additional clarification to a couple of translations.
 
-*v2.1 \- 2026 Feb 17\*
+*v2.1 \- 2026 Feb 17*\
 --> Fixed some incorrect characters in Lesson 2.\
 --> Added multi\-chapter quiz functionality.\
 --> Added other buttons for upcoming chapters.\
 --> Used this opportunity to clean up the main UI a bit.
 
-*v1.0\*
+*v1.0*\
 --> This version covers vocabulary for the first seven lessons.\
 You can choose any chapter to review its vocabulary list.\
 --> Use Settings to turn on Quiz Mode.\
